@@ -1,0 +1,2 @@
+Remove "redis-brain.coffee", in hubot-scripts.json
+change port di default in node_modules/hubot/src/robot.coffee
